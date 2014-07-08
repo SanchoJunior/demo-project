@@ -1,16 +1,16 @@
 .wrapperheart {
   margin: 0 auto;
-  width:10px;
   -webkit-transform: translateX(-100px) translateY(80px);  
 }
 .heart{
   position:absolute;
   padding:0;
   width:45px;
-  left: 545px;
+  left: 480px;
 }
 #cubewrapper {
-  margin: 100px;
+  margin: 100px auto;
+  width: 1000px;
   -webkit-perspective: 4000;
   -webkit-perspective-origin: 50% 240px;
 }
